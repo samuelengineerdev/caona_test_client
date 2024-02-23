@@ -21,3 +21,9 @@ npm install
 ```bash
 npm run dev
 ```
+![](https://res.cloudinary.com/dkqnylg6o/image/upload/v1708688198/1_wzpyal.png)
+![](https://res.cloudinary.com/dkqnylg6o/image/upload/v1708688198/3_txcrem.png)
+![](https://res.cloudinary.com/dkqnylg6o/image/upload/v1708688198/4_ockkzf.png)
+![](https://res.cloudinary.com/dkqnylg6o/image/upload/v1708688198/2_yeqn7y.png)
+![](https://res.cloudinary.com/dkqnylg6o/image/upload/v1708688198/5_m4lifz.png)
+
